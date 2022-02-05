@@ -42,32 +42,438 @@ Wright, Will. _The Sims_. Maxis-Electronic Arts.
 Readings by Class Session
 -------------------------
 
-| SES # | TOPICS | READINGS | HANDOUTS |
-| --- | --- | --- | --- |
-| 1 | Introduction: Orality and Literacy | &nbsp; | ([PDF]({{< baseurl >}}/resources/handout01keyte)) |
-| 2 | Epic Conventions | Homer. _Iliad._ Books 1-6. | ([PDF]({{< baseurl >}}/resources/handout02chain)) |
-| 3 | Stories within Stories: The Social Functions of Storytelling | Homer. _Iliad._ Books 7-12. | ([PDF]({{< baseurl >}}/resources/handout03iliad)) |
-| 4 | Myths of Self and Society: Fates and Fatalism | Homer. _Iliad._ Books 13-20. | &nbsp; |
-| 5 | Conflict Resolution | Homer. _Iliad._ Books 21-24. | &nbsp; |
-| 6 | Genre and Ideology I: The Tragic Arc | Sophocles. _Oedipus Tyrannos_. | ([PDF]({{< baseurl >}}/resources/handout04keytec)) |
-| 7 | Approaches to History: Methods and Materials | Herodotus. _The Histories._ Book I. | ([PDF]({{< baseurl >}}/resources/handout05keyte)) |
-| 8 | Genre and Ideology II: The Tragic View of History | Herodotus. _The Histories._ Book VII. | &nbsp; |
-| 9 | Formalist Approaches to Narrative | Propp, Vladimir. _Morphology of the FolkTale_. | &nbsp; |
-| 10 | Character Functions in Adventure Narratives | de France, Marie. _Lais_. (Guigemar, Bisclavret, Lanval, Yonec, Eliduc). | &nbsp; |
-| 11 | Narrative Perspective and the Categories of time and Space | Bakhtin, Mikhail. "Forms of Time and the Chronotope."   {{< br >}}  {{< br >}}_Acts of Paul and Thecla_. | ([PDF]({{< baseurl >}}/resources/handout13keyte)) |
-| 12 | Perspective and the Novelty of the Novel | Cervantes. _Don Quixote_. Dedication, Prologue, Part I. Chapters 1-17. | ([PDF]({{< baseurl >}}/resources/handout07cervan))  {{< br >}}([PDF]({{< baseurl >}}/resources/handout08donqu)) |
-| 13 | Mediation and the Triangulated Subject | Cervantes. _Don Quixote_. Part I. Chapters 18-35. | ([PDF]({{< baseurl >}}/resources/handout09reng)) |
-| 14 | Character Development and the Accumulation of Experience | Cervantes. _Don Quixote._ Part I. Chapters 36-52. | ([PDF]({{< baseurl >}}/resources/handout06histor)) |
-| 15 | Realism, Sentiment, and the Epistolary Novel | Laclos. _Les Liaisons Dangereuses._ Part 1. | &nbsp; |
-| 16 | Experience, Experiments, and Enlightenment Epistemology |  {{< br >}}{{< br >}} Laclos. _Les Liaisons Dangereuses._ Part 2. {{< br >}}{{< br >}}  | &nbsp; |
-| 17 | The Enlightened Subject | Laclos. _Les Liaisons Dangereuses._ Part 3. | &nbsp; |
-| 18 | Novels of Manners, Novels of Morals: The Bildungsroman | Laclos. _Les Liaisons Dangereuses._ Part 4. | &nbsp; |
-| 19 | Psychology in Gothic Horror and Detective Fiction | Poe. "The Cask of Amantillado;" "The Pit and the Pendulum;" "The Imp of the Perverse;" "The Murders in the Rue Morgue;" "The Purloined Letter." | &nbsp; |
-| 20 | Psychoanalytic Archetypes and Fairy-Tales | Freud. "On Dreams," "Family Romances," and "The Dissolution of the Oedipus Complex." | ([PDF]({{< baseurl >}}/resources/handout10techni)) |
-| 21 | Film Screening I | Cocteau. _La Belle et la Bête_. | &nbsp; |
-| 22 | Surrealism and the Subject of Psychoanalysis | Cocteau. _La Belle et la Bête_. (cont.) | &nbsp; |
-| 23 | Film Screening II | Lang. _Metropolis_. | &nbsp; |
-| 24 | Modernist Ideology: Capitalist Alienation and Class Consciousness | Marx. "Alienation and Social Classes."  {{< br >}}  {{< br >}}Lang. _Metropolis_. (cont.) | &nbsp; |
-| 25 | Film Screening III | Disney-Pixar. _Toy Story_. | &nbsp; |
-| 26 | Late Capitalism, Pastiche, and Post-Modernism | Disney-Pixar. _Toy Story_. (cont.) | &nbsp; |
-| 27 | Narrative and New Media | Wright, Will. Electronic Arts, _The Sims_. | ([PDF]({{< baseurl >}}/resources/handout11thesi))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+{{< thopen >}}
+HANDOUTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: Orality and Literacy
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/handout01keyte))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Epic Conventions
+{{< tdclose >}}
+{{< tdopen >}}
+Homer. _Iliad._ Books 1-6.
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/handout02chain))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Stories within Stories: The Social Functions of Storytelling
+{{< tdclose >}}
+{{< tdopen >}}
+Homer. _Iliad._ Books 7-12.
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/handout03iliad))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Myths of Self and Society: Fates and Fatalism
+{{< tdclose >}}
+{{< tdopen >}}
+Homer. _Iliad._ Books 13-20.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Conflict Resolution
+{{< tdclose >}}
+{{< tdopen >}}
+Homer. _Iliad._ Books 21-24.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Genre and Ideology I: The Tragic Arc
+{{< tdclose >}}
+{{< tdopen >}}
+Sophocles. _Oedipus Tyrannos_.
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/handout04keytec))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Approaches to History: Methods and Materials
+{{< tdclose >}}
+{{< tdopen >}}
+Herodotus. _The Histories._ Book I.
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/handout05keyte))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Genre and Ideology II: The Tragic View of History
+{{< tdclose >}}
+{{< tdopen >}}
+Herodotus. _The Histories._ Book VII.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Formalist Approaches to Narrative
+{{< tdclose >}}
+{{< tdopen >}}
+Propp, Vladimir. _Morphology of the FolkTale_.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Character Functions in Adventure Narratives
+{{< tdclose >}}
+{{< tdopen >}}
+de France, Marie. _Lais_. (Guigemar, Bisclavret, Lanval, Yonec, Eliduc).
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Narrative Perspective and the Categories of time and Space
+{{< tdclose >}}
+{{< tdopen >}}
+Bakhtin, Mikhail. "Forms of Time and the Chronotope."   
+  
+_Acts of Paul and Thecla_.
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/handout13keyte))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Perspective and the Novelty of the Novel
+{{< tdclose >}}
+{{< tdopen >}}
+Cervantes. _Don Quixote_. Dedication, Prologue, Part I. Chapters 1-17.
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/handout07cervan))  
+([PDF]({{< baseurl >}}/resources/handout08donqu))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Mediation and the Triangulated Subject
+{{< tdclose >}}
+{{< tdopen >}}
+Cervantes. _Don Quixote_. Part I. Chapters 18-35.
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/handout09reng))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Character Development and the Accumulation of Experience
+{{< tdclose >}}
+{{< tdopen >}}
+Cervantes. _Don Quixote._ Part I. Chapters 36-52.
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/handout06histor))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Realism, Sentiment, and the Epistolary Novel
+{{< tdclose >}}
+{{< tdopen >}}
+Laclos. _Les Liaisons Dangereuses._ Part 1.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Experience, Experiments, and Enlightenment Epistemology
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Laclos. _Les Liaisons Dangereuses._ Part 2.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+The Enlightened Subject
+{{< tdclose >}}
+{{< tdopen >}}
+Laclos. _Les Liaisons Dangereuses._ Part 3.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Novels of Manners, Novels of Morals: The Bildungsroman
+{{< tdclose >}}
+{{< tdopen >}}
+Laclos. _Les Liaisons Dangereuses._ Part 4.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Psychology in Gothic Horror and Detective Fiction
+{{< tdclose >}}
+{{< tdopen >}}
+Poe. "The Cask of Amantillado;" "The Pit and the Pendulum;" "The Imp of the Perverse;" "The Murders in the Rue Morgue;" "The Purloined Letter."
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Psychoanalytic Archetypes and Fairy-Tales
+{{< tdclose >}}
+{{< tdopen >}}
+Freud. "On Dreams," "Family Romances," and "The Dissolution of the Oedipus Complex."
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/handout10techni))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Film Screening I
+{{< tdclose >}}
+{{< tdopen >}}
+Cocteau. _La Belle et la Bête_.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Surrealism and the Subject of Psychoanalysis
+{{< tdclose >}}
+{{< tdopen >}}
+Cocteau. _La Belle et la Bête_. (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Film Screening II
+{{< tdclose >}}
+{{< tdopen >}}
+Lang. _Metropolis_.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Modernist Ideology: Capitalist Alienation and Class Consciousness
+{{< tdclose >}}
+{{< tdopen >}}
+Marx. "Alienation and Social Classes."  
+  
+Lang. _Metropolis_. (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Film Screening III
+{{< tdclose >}}
+{{< tdopen >}}
+Disney-Pixar. _Toy Story_.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Late Capitalism, Pastiche, and Post-Modernism
+{{< tdclose >}}
+{{< tdopen >}}
+Disney-Pixar. _Toy Story_. (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Narrative and New Media
+{{< tdclose >}}
+{{< tdopen >}}
+Wright, Will. Electronic Arts, _The Sims_.
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/handout11thesi))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
